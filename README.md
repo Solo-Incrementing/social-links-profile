@@ -20,8 +20,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [INSERT]
-- Live Site URL: [INSERT]
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-social-links-profile-using-bem-Yh-mdGbgf4
+- Live Site URL: https://solo-incrementing.github.io/social-links-profile/
 
 ## My process
 
